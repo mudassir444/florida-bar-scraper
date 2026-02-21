@@ -1,0 +1,4 @@
+﻿.venv/
+bar_images/
+*.csv
+__pycache__/
